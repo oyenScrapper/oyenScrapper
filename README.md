@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oyenscrapper" alt="oyenscrapper" /></a> </p>
 
-- 📝 Latest Involvement: 
+- 📝 Latest Involvement:  
     **Cisco APJC NetAcad Riders Competition 2023**  
     **CYDES CTF: Cyber Warzone 2023**  
     **Sibersiaga CTF: Code Combat 2023**  
