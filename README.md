@@ -11,7 +11,7 @@
     **Sibersiaga CTF: Code Combat 2023**  
     **WGMY 2022**  
 
-- 📄 My blog and writeup can be viewed here: [In Progress](none)
+- 📄 My blog and writeup can be viewed here: [Gitbook](https://oyenscrappers-notes.gitbook.io/home/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
